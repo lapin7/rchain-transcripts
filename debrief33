@@ -1,0 +1,1117 @@
+n at
+0:05the ascribe offices for about half the
+0:09week met did an intensive kind of a
+0:14presentation and then discussion with
+0:17Trent Makana he and his team and then
+0:23did a deep dive with their architects to
+0:25see you know where were their possible
+0:28points of collaboration so quite quite
+0:31excited about that I think it was you
+0:33know there was a lot of interest and
+0:36there's a lot of it's a good timing from
+0:40the point of view that they're they're
+0:42kind of doing an architectural review
+0:44planning for their next phase of the
+0:48next iteration so it was very very
+0:51fruitful in that way let me I think
+0:54there might be some practical ways that
+0:58we can help each other out I'd love to
+1:00see the Archon node with a sort of the
+1:052.0 version of the big chain DB
+1:08underneath as a data source so that
+1:11could be quite interesting also I met
+1:15with Clement
+1:17FBA who is at the focal point of a very
+1:23interesting group in Paris
+1:26that brings together startups and and
+1:30research groups and and sort of in the
+1:34incumbent industry to to do a practical
+1:40collaboration and explore new ideas he
+1:44just had one of his projects was a
+1:48blockchain energy project called dayz
+1:53that just came back from doing some
+1:57field work to try to explore the
+2:00feasibility of doing doing blockchain
+2:06energy projects in the developing world
+2:13so I'm quite interested in that I'm very
+2:15interested in making sure that our chain
+2:19is vigorously pursuing all avenues with
+2:23respect to blockchain and decentralized
+2:27energy solutions so that was very
+2:30exciting
+2:30there are three points where we are
+2:33looking to collaborate and one of the
+2:36most important is that he needs
+2:38artifacts from arch tang to begin to
+2:46socialize the ideas of our chain which
+2:50is why it's it's such great news that
+2:52Kant wanted me to pass this along so we
+2:55now have the full ERC 20 token con
+3:01contract compiling in rolling and
+3:08executing on top of the rosette p.m. so
+3:12this is a major major milestone and
+3:14that's been checked in
+3:16in addition looks like Kent and navneet
+3:22and Glynn did some work and got a
+3:25rolling Oryx site up and running so it's
+3:30not quite a rebel it's still very
+3:31nascent work but this is exciting
+3:33because we're at a point now where we
+3:36have a little web-based experience where
+3:39developers can come and type in row line
+3:43code and have it evaluate and see what
+3:45the results are so that's that that is
+3:47ongoing work it's still very rough
+3:50around the edges but I'm excited to see
+3:52it come into being so this is this is
+3:54really great additionally we've I've
+4:01been pursuing with higher effects the
+4:05idea of sort of taking on board the
+4:11development of development tools and and
+4:14developed an IDE and relations with with
+4:17the incumbent IDs and they've sort of
+4:20been some positive response around that
+4:22so so more to come on that
+4:25as the ideas develop but my aim is
+4:30however how however and whoever takes it
+4:34on my aim is that as soon as mercury is
+4:38out the door right on the heels of
+4:39mercury we have a bunch of developer
+4:41tools for for rolling and for our chain
+4:45in general so this is this is part of
+4:48the plan and we're very very excited to
+4:51get this underway as soon as possible
+4:54also since I've been here in Berlin I
+4:57met with with Tim and we went over a few
+5:01questions about the the parser and I Tim
+5:06also joined the conversation with
+5:08Clement and I thought that was really
+5:11important because we want to make sure
+5:13that you know everybody you know has a
+5:16chance to everybody understands kind of
+5:19the bigger picture the the larger goal
+5:21our goals and and you know kind of knows
+5:27how their their pieces fit into the fit
+5:30into the efforts that we're doing so it
+5:32was really good to meet with Tim it's
+5:35Tim on the call yes I just send you an
+5:46email regarding further pasta questions
+5:49and besides it was nice meeting you was
+5:53a good talk oh yeah it was also
+6:01interesting I think Tim had a really
+6:04nice attitude
+6:05it couldn't quite make be NFC work for
+6:08some of the rosette parser stuff so he
+6:12went down the path using antler and was
+6:14able to get get something going and I
+6:17think that's that's kind of the way we
+6:18we need to be not necessarily wedded to
+6:21any one platform as long as we get the
+6:24stuff done so I was very excited to see
+6:26that and then finally I started to
+6:33sketch out a framework or
+6:39testing caspere which is a bit one of my
+6:42goals to make sure that we have you know
+6:45something that's you know a simple test
+6:49and yet compelling and worthwhile
+6:52building a simple kind of test remember
+6:55that begins not only test just the code
+6:59but also tests some of the implications
+7:03and I will I'll go through those ideas a
+7:08little bit later but I wanted to pass
+7:12the baton over to Edie and and see if he
+7:16has any updates on the holding side and
+7:19and just in the updates in general hey
+7:22hi everyone
+7:25yeah we've we've had a number of
+7:28investor conversations that are
+7:30interesting you know one one guy met
+7:34with this morning here at the navneet
+7:37and I met at the Redmond office he he
+7:40literally heard about us at an airport
+7:42someone was talking to him about
+7:43blockchain in our chain and he lives in
+7:46the Seattle area and was so excited and
+7:48wanted to meet us he heard about in
+7:51particular this the safe and so he came
+7:53in and just across some conversation so
+7:55like now our train is an airport really
+8:02really interesting exactly last Thursday
+8:13Lisa and I met with a sort of a private
+8:19investment / Business Network group here
+8:23in the Seattle area as well I was
+8:27invited by this group because they
+8:29wanted to understand about blockchain
+8:31and you know this was a diverse group
+8:35they were folks ranging from an
+8:39executive at a local bank to insurance
+8:43brokers and there was an M&A guy there
+8:46was an attorney who's working on a token
+8:49sale for a Seattle area
+8:52business and so it was is quite an
+8:55interesting conversation just walking
+8:58through all the misperceptions that
+9:00people have about bought chains and so
+9:02that was a very great education session
+9:05and then after that met with this M&A
+9:07guy for an hour talking about our chain
+9:10and it was great getting his initial
+9:12impressions and and so forth to to in
+9:17particular that we can talk more about
+9:20it some some later time was he had
+9:22concerns about the supply of of staking
+9:25tokens and the governance around that
+9:28supply and use of the stake token so
+9:30Gregg and I talked yesterday morning
+9:32some about that how we can make that
+9:36more clear on the co-op side and also
+9:39make some decisions board level
+9:41decisions as opposed to individual
+9:43decisions and that will help give
+9:45investors confidence such as this guy
+9:48who's considering an investment in the
+9:51holding company so anyway that was an
+9:53awesome experience and conversation as
+9:58as Greg mentioned last week the coop is
+10:02preparing for a private sale of rocks
+10:04and we've retained two advisors that are
+10:08associated with david otto and i've met
+10:12with them and are continuing to work
+10:14through sort of materials that are that
+10:17are needed to better understand the
+10:20co-operative and the opportunity in
+10:22front of us all
+10:23Greg's planning on writing a white paper
+10:25to help that effort these these advisors
+10:29and and us they will write a business
+10:34summary that will include a financial
+10:37financial forecast especially from the
+10:40expense side and then also I'm going to
+10:43take a another pass at the architecture
+10:45document just because I haven't looked
+10:47at it since like January and and so
+10:52understanding and so forth has changed
+10:55we'll have a working session later this
+10:58week on this business summary as well
+11:02also I've been talking to
+11:06and with Nathan about our marketing and
+11:09brand image is Nathan on okay so he's
+11:15not he's not on our intention is to
+11:19write a branding document about you know
+11:23what and this will help also with the
+11:26investor pitches you know what are the
+11:30the primary you know ethos and messages
+11:34that we want to change as our chain from
+11:36a our sorry uh convey as as our Jane
+11:39cooperative and what kinds of feelings
+11:43do we want to stir up in our messaging
+11:45on marketing and then that will lead to
+11:47a discussion around the logo for the Rev
+11:50token and maybe the rock token if we
+11:54choose to have a separate logo for that
+11:57I'm expecting Nathan will drive a lot of
+12:00this discussion and OB with with a lot
+12:03of input from the community I was hoping
+12:05you'd be here to to discuss that but
+12:07first I'd like him to do to have this
+12:10conversation around branding so we
+12:13started some discussion so to I think
+12:16that's all I have
+12:19sweet no thank thank you very much that
+12:23was really good
+12:25also I Jim White's cover had some
+12:30interesting comments regarding that some
+12:32of the stuff that I discussed and I
+12:35wanted to make a couple of clarifying
+12:37points so recently and I want to keep
+12:40harping on this what I have said is that
+12:43that if the the Kaspar algorithm works
+12:47as we expect it to and I have every
+12:50confidence that it does then one of the
+12:53one of the things that we'll be able to
+12:56do is to replicate arbitrary rewrite
+12:58systems you know whether you rewrite
+13:01system is JavaScript or or what-have-you
+13:03and what this does is commoditized a
+13:06platform that doesn't mean that it makes
+13:08the platform not matter the platform
+13:12still matters but what it will do is to
+13:15greatly highlight
+13:19Adam berate and make clear that the
+13:24differences in the computational models
+13:27so in particular if you have us you know
+13:30like you you should be able to replicate
+13:32regular expressions but our regular
+13:34expression is going to be you know the
+13:37kind of computational model that fits
+13:39this domain no they aren't and they
+13:41clearly aren't and and anyone who who
+13:43gives it you know two seconds where it's
+13:45a thought will recognize regular
+13:47expressions are not well suited to this
+13:48domain so but but you can still use the
+13:53the replication algorithm consensus
+13:57algorithm to to replicate a regular
+13:59expression execution across a bunch of
+14:02decentralized nodes so you know and
+14:05there might even be value in that but
+14:07it's just it's not going to be it's not
+14:11going to meet a lot of the the demands
+14:13that we've been talking about or that
+14:15have emerged as as people consider the
+14:17space the likewise any sequential model
+14:21by comparison to a model that is
+14:25inherently concurrent right replicating
+14:28those different kinds of computational
+14:30models who will make the features of the
+14:34computational models very very starkly
+14:37clear and and that's what I was saying
+14:40so the monetization of the platform
+14:43means that a lot of what has gone into
+14:47the capital requirements and operational
+14:50requirements goes away which means the
+14:54the the the MA the the the platform
+14:57choices with respect to computational
+15:00power computational fit for the domain
+15:03all of those will come to the forefront
+15:05and some of these other considerations
+15:08will go to the back and that that's
+15:12that's what I meant when I talked about
+15:14the commoditization of the platform so
+15:17so a lot of the value in the platform
+15:20that sort of the heavy duty operational
+15:23and capitalization costs will no longer
+15:26be justified because you can press a
+15:29button and get it done however
+15:33differences in choices design choices
+15:36around things like where they're using
+15:37something that is fundamentally
+15:39concurrent versus something that is
+15:41fundamentally sequential those will come
+15:43to the fore and that that's where that
+15:47that's where we're we're you know
+15:49healthy competition and cooperation will
+15:54will you know really begin to ferret out
+15:57that the best choice is the best design
+15:59choices
+16:00so I really appreciate Jim for sort of
+16:03highlighting that conversation yeah
+16:06taking you slightly different direction
+16:08I guess I was in the context of using
+16:16something like react the value keystore
+16:24that's an excellent choice
+16:26absolutely you can use any of a number
+16:28of different key value stores react is a
+16:31perfectly reasonable choice for a number
+16:34of different perspectives you know I was
+16:37thinking about like their search
+16:41applications I was thinking that know
+16:51that ro Lang program is sort of search
+16:55application on top of react seem like
+17:00it's it's possible
+17:12we lost your Greg I'm still here can you
+17:16guys hear me yeah we can now okay great
+17:20so so you know I absolutely agree we
+17:24should have lots of different
+17:25realizations of our chain nodes on
+17:29different kinds of stores and we'll sort
+17:32of a post Mercury will lay out a roadmap
+17:36for different kinds of storage and a
+17:39plug-and-play architecture for different
+17:41kinds of storage but but up to mercury
+17:46we'll be focusing on one storage choice
+17:50so unless there are any other major
+17:55updates that we want to give I'd like to
+17:58talk a little bit about this test
+18:01framework and and also this whole idea
+18:05of beginning to grow a test organization
+18:09that that interfaces nicely with the
+18:13community because we really really will
+18:16rely heavily on the community for being
+18:19able to you know to hold our feet to the
+18:26fire and make sure that we have the
+18:28right right quality bar so and and and
+18:33that also and and I've organized the
+18:35discussion here in a way that it also it
+18:38sort of has this practical side which is
+18:41you know a real test of consensus and
+18:46then and then the other side is that it
+18:49testing the ideas of consensus and what
+18:52this means what the implications are you
+18:55know what what does what does
+18:56decentralization mean in terms of the
+18:59existing infrastructure the existing
+19:02compute and services infrastructure and
+19:05I wouldn't lead I want to lead the idea
+19:09lead off the discussion with the
+19:12following you know you know Rick
+19:15recounting or recognition of certain
+19:17kinds of experience I think everybody is
+19:20familiar with the experience of the
+19:24conversation between the in
+19:26dividual agent you know such as you know
+19:28yourself or myself trying to talk to an
+19:31organizational agents like a bank or a
+19:35hospital or a government service and and
+19:38we know what that experience can be like
+19:40you know it's like you you you call into
+19:43a line there's a phone tree that's the a
+19:45phone menu that's about 20 levels deeper
+19:47and at the end of that one is connected
+19:51to another person and that person is not
+19:54empowered to to take appropriate action
+19:59nor are they nor are they actually
+20:01informed of any of the information that
+20:03was supplied in the the 20 level deep
+20:07phone menu and so there's a
+20:10recapitulation of the information and
+20:12then there's a then there's the
+20:13navigation of the the human
+20:16organizational tree in order to get to
+20:17someone who is actually empowered to to
+20:20help with a with a question or make a
+20:23decision or something like that so it's
+20:25a very common experience and and the
+20:29spies I'm going to present challenge
+20:32that that's the way it has to be and and
+20:36I'm going to say why that's important
+20:38sort of the social context for why
+20:42that's important as a part of this
+20:44discussion so again I'm attempting to
+20:47work on multiple levels all at once here
+20:52so I'm screen sharing now and let me
+20:57bring up the slide
+21:01hang on a second so this is a
+21:06aft and this draft will also a lot of
+21:10the ideas and concepts of this draft
+21:12will find their way into the white paper
+21:14so I apologize that OmniGraffle has
+21:20changed the way they do page layout and
+21:22so that the presentation the slides the
+21:25the the look and feel is not as pretty
+21:27as it has been so kind of as I said
+21:33before there there's several desiderata
+21:35here so first we want to provide a kind
+21:37of compelling test of the consensus
+21:41algorithm and the second is to
+21:43illustrate the nature of different kinds
+21:45of agency and you know the interesting
+21:49point is that different levels and
+21:50different kinds of agency actually can
+21:52can have as opposed to what we often
+21:54experience in the world they can have
+21:56fruitful and even satisfy in engagement
+21:59and interaction so so the individual
+22:03talking to the organization can be a
+22:06completely different experience with a
+22:09consensus algorithm and that's what
+22:11that's one of the ways in which
+22:13consensus has the potential to
+22:16completely change a modern society so so
+22:22I'm going to suggest that we build an
+22:25organizational agency that can act as a
+22:28single agent that this is in fact what
+22:31consensus provides it makes it possible
+22:34to have an organization so a bunch of
+22:38clients acting as a single agent and in
+22:43this case I'm gonna suggest that we make
+22:45it since we're trying to build a test
+22:49that we can write code to make this
+22:52single agent one that plays a game
+22:55gamification is a theme that runs
+22:57throughout a lot of the work that I do
+23:00large largely because we learn best when
+23:03we play but so here what we're talking
+23:07about as a community agents that act as
+23:09though as a single agent playing as a
+23:14player in a game and I'm gonna restrict
+23:17attention just to two person games just
+23:19for now
+23:20like chess or go and the important point
+23:24is that the organizational agency can be
+23:27an aggregated AI or it can literally be
+23:31a community of human agents who act as a
+23:33single agent and that's sort of the the
+23:36other the point that I was making it at
+23:38the outset of this discussion so so and
+23:42and this has implications for AI and you
+23:45know what has been become you know a
+23:48real there's there's a whole there's a
+23:52lot of hoopla and hype around deep
+23:54learning and I'm gonna make some
+23:56proposals that that suggest that that we
+24:00can do better than what is currently
+24:02thought of as deep learning and that
+24:04consensus plays an important part in
+24:06that right and this is all within the
+24:08context of just building a test to test
+24:10Kasper so so the idea is that we want to
+24:16we want to take say white player in a
+24:18game of chess and it's made up of a
+24:21community of client proposers and a
+24:24network of validators and then the
+24:27community is subdivided into little sub
+24:29communities so here's here's a little
+24:32picture and and the thought is that each
+24:40sub community is proposing moves for
+24:42only one piece right so you can imagine
+24:46that you've got a bunch of clients that
+24:48are moving one of the white pawns and
+24:51another bunch of clients that are you
+24:54know moving another of the white pawns
+24:56and a bunch of clients that are only
+24:58interested in moving the white rook
+25:00right and so they're each proposing
+25:02moves for that one piece and those
+25:05proposals are headed in to Casper which
+25:09is going to create a consensus around
+25:12one move the D one move so again here's
+25:17a picture that to reiterate this so
+25:20you've got a bunch of clients and
+25:21there's a single pawn and there are a
+25:24bunch of possible moves for this pawn
+25:27all right now one one would be just to
+25:30advance forward one another would be to
+25:32advance forward to
+25:34and another might be to take a piece on
+25:37the adjacent square and each of the
+25:39clients is is potentially proposing a
+25:42single transaction for the pawn for that
+25:45pawn resource similarly for the night
+25:48each of the client assisted proposing a
+25:51single transaction which mutates the
+25:53resource which is the knight right and
+25:57now intriguingly if we restrict the
+26:00block size to exactly one this
+26:03guarantees that the validators will pick
+26:05a single move from all the client
+26:08requests and what that does is it allows
+26:11the players to two alternate moves so
+26:15white player can move and then black
+26:17player can move and then white player
+26:18can move and then black player can move
+26:20and and what you're getting now is a
+26:24dialogue between organizational agency
+26:27and singular or individual agency under
+26:29the assumption that black player is an
+26:32individual agent and that assumption is
+26:34actually worth looking into which and
+26:40I'll get to that in a moment but but
+26:42clearly if the consensus algorithm
+26:45performs in such a way that black player
+26:48if it's a human being doesn't get bored
+26:50or timeout waiting for white player then
+26:53you have an algorithm that's responsive
+26:55it's responsive on the level that we
+26:58kind of want to see consensus being
+27:00responsive I actually want to see we
+27:03want to see it massively more responsive
+27:05but this is kind of a first cut at the
+27:08level of responsiveness that we want to
+27:10see and and more intriguingly
+27:15if we stipulate that the black player is
+27:18a single agency rather than an
+27:20organizational agency then the black
+27:24player may be interested in whether or
+27:27not white player actually is an
+27:31organizational agency or if it's a bunch
+27:33of bots the controlled by one one entity
+27:37right and so black player can actually
+27:41demand a proof of consensus and and at
+27:47least in
+27:47a number of the the proposals that have
+27:53come back and forth between GLAAD and I
+27:55we have such a proof and the proof is is
+27:58a trace or it's a set of sequences of
+28:01justified messages that gives rise to
+28:03the consensus decision so whenever you
+28:05if any of you have watched the Casper
+28:08hangouts when Vlad has run his his
+28:11simulations for the for the the the
+28:17ideal adversary the the message flows
+28:21that reach the consensus decision that's
+28:24exactly the proof of consensus and
+28:28that's what white player can provide if
+28:32it is an organizational player now it
+28:36comes computationally expensive and
+28:41economically expensive to fake this
+28:43because every every validator will be
+28:47staked and they would have to so you
+28:50would have the the validators and there
+28:53are stakes and all the clients and all
+28:56of the transactions that were associated
+28:58with the production of the consensus so
+29:01that's that both the computational cost
+29:03and the economic cost to fake that
+29:07consensus so it becomes prohibitively
+29:10expensive to fake proof of consensus so
+29:13this is a fairly reliable way by which
+29:18black player can ask that a white player
+29:22is actually an organizational agent now
+29:26it also has a separate role or a
+29:29separate meaning which is that it stands
+29:31as an explanation of the decision so the
+29:35set of messages that go back and forth
+29:38essentially provides a justification for
+29:41the consensus which is a justification
+29:44for the decision and therefore unlike so
+29:48you can think about this so the
+29:50consensus is very very much like a kind
+29:52of the kind of flow you might see in a
+29:54neural net except that the flow here
+29:57corresponds to an explanation a
+29:59justification so
+30:01unlike a neural net if this were a bunch
+30:05of eyes that were reaching consensus
+30:08this AI that organizationally I can
+30:11actually explain its move so that's
+30:15quite that's quite intriguing when you
+30:18compare it to deep learning and in fact
+30:21the whole architecture as an
+30:23architecture for AI is very similar to
+30:27the shift in robotics that happened
+30:30I don't know in the late 80s Early 90s
+30:31at least with respect to motor control
+30:34where the intelligence like in hexapods
+30:38rather than having a lot of intelligence
+30:41in the central control the intelligence
+30:43was moved out to the legs and and and
+30:47this was this was then picked up by a
+30:49bunch of toy companies I think I can't
+30:52remember the names of the toy companies
+30:54right now and they're not paying me to
+30:56advertise and so I won't but but I think
+31:00people probably are aware of this
+31:03because these kinds of results been out
+31:04for about 20 or more years but when you
+31:08win the when the the shift happened
+31:11where the intelligence was decentralized
+31:13out to the legs then for a wide class of
+31:19robots what we saw was a much much more
+31:22robust mode motor control so that's a
+31:26and what we're suggesting here is we're
+31:29moving the intelligence out to chess the
+31:31pieces right there's a there's a sort of
+31:34little mini intelligence in in each pawn
+31:37or driving each pawn there's a little
+31:39mini intelligence driving the Queen or
+31:42the bishop for the knight and and
+31:44consensus is what glues them together to
+31:47act as a single player and that's that's
+31:49kind of the the approach here and notice
+31:56that if if Y player cannot provide such
+31:58a proof then black.there is justified in
+32:00assuming that y players really a
+32:02singular agent right everything else is
+32:04just a sock puppet and that has that has
+32:07import for how we engage into these on
+32:13the Internet
+32:14which I think you know there's been a
+32:16lot of discussion debate around that now
+32:18no Otis that in the art chain setting as
+32:22opposed to other settings we can nest
+32:25these sub communities so it's perfectly
+32:28reasonable that a particular set of
+32:32clients that are only interested in a
+32:34single pawn live in their own namespace
+32:37and and then because of the way that our
+32:40art chain works you can aggregate these
+32:42up into a larger or more inclusive
+32:44namespace for the consensus across the
+32:48total set of client proposals that then
+32:51roll up into a single loop and then you
+32:56know there's some other there's some
+32:58other niceties about this you can think
+33:01about piece removal in playing the game
+33:04as one of two different outcomes when a
+33:09piece is removed it can either be a
+33:11validator as cashing out or unbonded for
+33:13the protocol or it can be a network
+33:15failure and in fact if a pawn makes it
+33:18all the way if another pawn makes it all
+33:21the way to the end of the board and
+33:22brings another piece back then that
+33:25could be seen as as a validator cash out
+33:31oh sorry
+33:32as the network failure and otherwise you
+33:35know the piece never comes back on the
+33:36on the board that was validator cash out
+33:38so there's some some niceties about the
+33:40fit between the the tests approach and
+33:44some of the features that of Casper that
+33:48we're trying to test additionally when
+33:51we look at other games for example the
+33:53game of go there are there there there's
+33:55more to this story specifically when we
+34:00in the game of go unlike the game of
+34:03chess new pieces are being placed on the
+34:05board and that corresponds to validator
+34:08bonding so testing the validator bonding
+34:11at least in this way of factoring the
+34:13architecture so that that has that has
+34:16some some additional benefit when when
+34:20we think about this just from the point
+34:22of view of testing Casper
+34:26one interesting point is that this
+34:30doesn't do look ahead right so what
+34:34white player as an organizational player
+34:37that there's nothing in this approach
+34:39that does any look ahead in terms of the
+34:40gameplay so it's quite likely to be a
+34:43lousy chess player but I'm interested to
+34:46see how bad it is and I would leave that
+34:49to future iterations
+34:53also note that disparate stake
+34:57distributions will lead to different
+34:59player strategies so if the Queen is
+35:02heavily staked right then Queen moves
+35:05and end up winning more frequently
+35:08unless there's you know some kind of
+35:11collaboration amongst you know say the
+35:14Knights or the the Knights and the
+35:16bishops or things like that so in in in
+35:21that case you'll get a different profile
+35:25then let's say if the rooks were more
+35:27heavily staked where the King was more
+35:28heavily state so the distribution of
+35:31stakes will result in different
+35:34gameplays against the opponent and I I
+35:37just kind of you know I mean one of the
+35:39things that's that's fun about these
+35:41kinds of tests is is you know I'm again
+35:46I'm trying to game a fire and make it
+35:47fun to to to look at lots of variations
+35:51because if we do look at lots of
+35:54variations that we're gonna end up test
+35:55and getting more coverage of the Kaspar
+35:58algorithm and then kind of the the the
+36:04important point with respect to the
+36:07implications of consensus for society is
+36:12that we can begin to contemplate
+36:13fruitful interaction between singular
+36:15agency like a bear
+36:17searching for honey such as produced by
+36:21an organizational agency like like a
+36:23beehive and and you know I mean
+36:27obviously nature is full of this nature
+36:30nature is full of predators Co evolving
+36:34with herd like prey and
+36:40and it's interesting to look at Homo
+36:42sapiens as kind of balanced between you
+36:44know being a social animal but also
+36:46working with singular agency as well and
+36:50in fact that sort of picks out human
+36:53beings and Homo Sapien says as one of
+36:55the one of the more intriguing species
+36:57because it because it is dual in this
+37:00way you know it's it's both singular and
+37:04and social and and kind of what I'm what
+37:10I think is going to be very important is
+37:13that this class of of consensus this
+37:16algorithms is going to make it possible
+37:18for a lot of the creatures in the
+37:21Internet to to take advantage of both
+37:23modes of agency so that's that's kind of
+37:27the the rough outline of the idea or the
+37:30proposal I'll stop there and open the
+37:34floor for discussion where people able
+37:39to follow that yeah that's that's really
+37:43cool Greg I have a question at least
+37:47initially when you said that say you
+37:51three clients that are responsible for
+37:52proposing moves possible for one piece
+37:56are all responsible for submitting that
+37:59move for consensus we need to be a
+38:02transaction so how is one move chosen so
+38:07since they're competing right only one
+38:11of them gets to be chosen right and the
+38:13others the others are effectively bad
+38:16debts right so over time the old group
+38:20has to converge to one of those moves
+38:23because that's the the block size is
+38:24exactly one so there's only there's only
+38:27one transaction amongst all the
+38:29transactions proposed for the pawn which
+38:33is also being thrown into the pot
+38:35against you know all the transactions
+38:36proposed for a night all the
+38:38transactions proposed for the Queen etc
+38:40right so they're all all the validators
+38:43are engaged in the cast for betting
+38:46process to select exactly one of all
+38:49those proposals right
+38:53but potentially you could like say if I
+38:54want an outfit the say like the consent
+38:58this protocol with a certain I don't
+39:01know logic that specified or constrained
+39:04moves to an optimal move right because
+39:07in chess we want to win then I could for
+39:10I mean like possibly constrain whatever
+39:13transactions or proposals that I was
+39:15getting to fit within the constraints
+39:17with which we define our optimal move
+39:20yeah yes and pointed back to your your
+39:25foreshadowing the next level of
+39:28development that I've wanted to kind of
+39:30keep in my back pocket which is when we
+39:33when we utilize our chains urgent
+39:36[Music]
+39:37Kaspar where we have formulate that
+39:40describe what goes in the block you can
+39:44now use the formula to describe you know
+39:47information about a game play strategy
+39:50round I don't want to I don't want to
+39:54open that door yet I'm trying to keep
+39:57their curtain closed just for a minute
+40:01and this is exactly what I'm hoping for
+40:04people to pick up on so you know you're
+40:09on the money as usual very good you're
+40:13blowing my mind again Greg but I'm still
+40:17not completely clear on who's doing the
+40:21betting oh so so the betting is done by
+40:25the validators let me go back to screen
+40:27sure and know and they want to win the
+40:32game validators are completely unaware
+40:37of the game of chess they have no clue
+40:40that chess is being played
+40:44only and in fact there's no agent here
+40:49that sees that there's a game of chess
+40:51being played right so in this schema
+40:53they they reach consensus on a random
+40:57move essentially yes it's not actually
+41:04random because the validator days are
+41:06staked right right I mean that doesn't
+41:11make it any less cool that's still like
+41:12an I think an awesome way to think about
+41:14it right right exactly and so what you
+41:17can do is then you you you can you can
+41:20make it less random and and how you make
+41:23it less random is actually quite
+41:25intriguing higher in the game that's
+41:37tweaking the game and that's what I said
+41:39the the the the the the staking
+41:41distributions changes the player profile
+41:44but that's not sufficient right it's not
+41:47sufficient and like you know pulling
+41:49your queen out first again certain kinds
+41:51of opponents is not going to be a good
+41:54idea all right so so there's there's
+41:59more to this than just the you know
+42:07favoring the move of one kind of piece
+42:11versus another there has to be a way to
+42:14encode more of the intelligence of the
+42:18whole and and that's kind of the next
+42:21step but I just want to get people used
+42:23to the idea that there is no entity here
+42:26that has a global view of the game right
+42:33so it's like let me know know I'm kind
+42:36of an intuitive level it's like the
+42:37pieces are playing the game rather than
+42:39the person behind them that's correct
+42:41the pieces are playing the game and
+42:43that's what I was trying to say that
+42:45this is remarkably like the move in
+42:49robotics so the legs don't know that
+42:53there's an ant
+42:55right the legs don't know that there's a
+42:58there's a goal seeking behavior by the
+43:01ants the legs are just trying to be legs
+43:03but they're they're smart enough to be
+43:05Minh you know fairly good legs and that
+43:10that makes that kind of decentralized
+43:13intelligence at least you know for it
+43:16was a major shift in robotics and and
+43:19actually I was talking to two glad about
+43:21this and he was asking for references
+43:23and where I found out about this was in
+43:26Kevin Kelly's book out of control which
+43:29I read in the early 90s and I heartily
+43:33recommend it to anyone who's interested
+43:34in decentralization Kevin Kelly was way
+43:38way way ahead of the curve on this and
+43:41so I I really think people you know I I
+43:44don't mind you know promoting promoting
+43:48that book because it's worth reading it
+43:51really talks about the shift that the
+43:56blockchain I think is is is very much a
+43:58part of we use decentralization push the
+44:02intelligence out to the leaves more
+44:04autonomy and and effectively you know
+44:10it's a funny relationship to trust
+44:13because what your end up doing is you're
+44:14trusting your peers rather than then
+44:18trusting in some overarching control
+44:20that governs all the peers yeah that's
+44:25that's so if we could define in row Lang
+44:36what it means to win a game of chess
+44:40could we use that for staking
+44:53III didn't hear you
+44:56Jim you cut out can you can you repeat
+45:00sorry I'm sorry huh
+45:02yeah so if you could write in row Lang
+45:06define what it means to win a game of
+45:09chess could that be applied to stinking
+45:16yeah I mean you can you can do anything
+45:19you want you know in a Turing complete
+45:23language you can do anything you want
+45:25the important the important point here
+45:27is to not bend pass per out of shape
+45:31right that's that's really that that's
+45:34the critical thing is like you don't
+45:36want the validators to know that they're
+45:37playing a game of chess right you want
+45:40the validators to only be concerned with
+45:42consensus so all of the intelligence
+45:45about playing chess has to be has to be
+45:49pushed out to the leaves although as I
+45:54said just by just by having this one
+46:00constraint which is the block size is
+46:03one that forces the the alternating move
+46:07thing so there's there's lots of
+46:09different degrees of freedom here that
+46:11one can tweak in order to make this
+46:14organizational entity more intelligent
+46:17and a better player but but I again kind
+46:24of the important point here is that it's
+46:28not that that that we as we try to make
+46:32this a better chess player we don't lose
+46:34the fact that the validators are just
+46:37just giving consensus so so what one
+46:43thing the one thing you could do for
+46:45example is that you could make the pawn
+46:48or the clients that move the pawn around
+46:51more aware of the whole game right so
+46:55for example if there were if there was
+46:57human agency behind each of these
+46:59clients as opposed to AI then
+47:02the humans could all be looking at the
+47:04chessboard right and so you know now
+47:07they know they know that they only can
+47:10move their pawn and so if they think
+47:13that their pawns move is a good one
+47:15they'll propose if they don't they'll be
+47:18quiet right and and and that's that's
+47:23kind of how how this might change if you
+47:26had greater intelligence at the client
+47:29side but but that's again I'm just
+47:35trying to be suggested here I think that
+47:39the the most important point is
+47:42beginning to understand that that
+47:49organizational intelligence can be can
+47:54emerge out of very very restricted moves
+47:57very very small things I mean one of the
+48:01one of the places where this landed
+48:03absolutely I mean made it crystal clear
+48:05in my body that this was the case was
+48:08when I went and studied West African
+48:10drumming in Africa the any one part in a
+48:14sub R piece is easy I mean it's very
+48:18very simple
+48:20the village idiot like myself can play
+48:22it and yet when you put all the pieces
+48:24together the complexity of the
+48:27conversation is what makes the song
+48:29satisfying and compelling and and and
+48:34that's that's what I'm trying to suggest
+48:37is going on here but it's also the fact
+48:41that any participant is getting feedback
+48:44from the whole that that makes this that
+48:49makes this begin to work and that's kind
+48:51of like what I was suggesting before
+48:52that the the the players that are behind
+48:56a particular pawn if they had a certain
+48:58kind of intelligence or agency they
+49:00could be looking at the whole board the
+49:03players who are playing sub are in a sub
+49:06R orchestra they can hear the whole song
+49:11and they know how a subtle variation in
+49:15their their very sim
+49:16hard will either you know bring out you
+49:20know a conversation or subdue a
+49:23conversation or provide provide some
+49:25kind of nuance to to the whole to the
+49:28whole piece so that's a it's it's a
+49:34different kind of thinking about
+49:36organizational intelligence um that I
+49:39believe you know goes back to the
+49:41origins of our species that we've always
+49:43understood this and we we kind of keep
+49:46forgetting it gives am gives a great
+49:50talk it's called the four pillars of
+49:53decentralisation we're essentially
+49:56argues as you know whether the current
+49:58hierarchy that exists between or that
+50:01exists in our society kind of the
+50:03patriarchal like you know political
+50:05landscape that is you know that's how
+50:08humans organize ourselves now and it's
+50:10essentially that in the early you know
+50:14in the early part of human mankind that
+50:19we existed in small kind of
+50:20decentralized nomadic tribes and such
+50:23and you know in that time everything was
+50:26mostly decentralized so it was pretty
+50:28easy to get consensus on an entire group
+50:30but you know as as kind of our
+50:33population grew so if we fast-forward to
+50:36Rome and the size of Rome was it became
+50:40technologically essentially impossible
+50:43to get consensus on such a large group
+50:45of people we just didn't have the tech
+50:46for it so a hierarchy was essentially
+50:50the only way that we knew how to scale
+50:52our societies that is like you only
+50:53answer to one person above you and you
+50:55can't you don't pay attention to what
+50:57essentially outside what's outside of
+51:00your scope which kind of he argues you
+51:03know let by the way for for certain
+51:06individuals to claim that the hierarchy
+51:08was broken and then for people to vote
+51:10to replace the hierarchy and hence you
+51:14know we see essentially that you know
+51:16any modern election is always about
+51:18change right and it's because everyone's
+51:21it's it's it's a time old tradition to
+51:25say that the hierarchy is broken but I
+51:28think it's interesting now that
+51:30were finally at a point kind of where we
+51:32have the technology that is enabling or
+51:35that would have first enabled the same
+51:38decentralized nature that existed in the
+51:41early course of mankind so it's called
+51:43the four pillars of decentralization
+51:44it's pretty good talk
+51:46cool I'll definitely check that out
+51:48absolutely and I think you know bringing
+51:51it all the way back round two to how I
+51:53began the conversation whether I'm
+51:57talking about what's there freaking
+51:59drumming or I'm talking about two-person
+52:01games
+52:02the thing that I'm trying to convey to
+52:05get across is this is critical
+52:10understanding that the dialogue between
+52:15individual and organization between the
+52:18one and the many can be many times more
+52:23satisfying and enjoyable it doesn't have
+52:26to be this mind-numbing ly frustrating
+52:30or spirit-crushing ly frustrating
+52:32experience an organization can be
+52:35responsive and and and playful and and
+52:40engaging right and we know this like
+52:44that's why people go to see music right
+52:47when we go to see a rock band or we go
+52:51to see a jazz band and we see the
+52:52players having fun and out of that fun
+52:55and joy with you know comes this
+52:59fantastic music right you know that's
+53:02what we want to see we see that there's
+53:04there's there's a right way to be an
+53:09organizational intelligence and to
+53:11participate in orientational
+53:12intelligence whereby right I mean joyful
+53:15and productive and and and and having
+53:18having a purpose and and and and the
+53:24sort of to finally put the final point
+53:27on this this is the kind of
+53:30organizational intelligence that we have
+53:32to have to face the oncoming changes so
+53:36if we want to be able to respond
+53:39effectively to climate change we have to
+53:43have a
+53:43fundamental shift in the nature and
+53:46quality of our organizational
+53:48intelligence and that's that's why the
+53:52consensus work is so salient and so
+53:56necessary at this point and and so again
+54:01you know I try to try to bring bring
+54:04this all together I'm just talking about
+54:06a test framework for Casper that we can
+54:10literally code up together right but
+54:13once we have that test framework I
+54:16believe that people's eyes will be open
+54:19as to the implications of what
+54:21decentralization and and the blockchain
+54:24technology means in terms of the
+54:27existing communications and governance
+54:31infrastructure I've got a quick question
+54:36yeah you mentioned that the black player
+54:40can ask for a proof of consensus which
+54:44is going to be a sequence of justified
+54:47messages is it correct that the sequence
+54:50of justified messages would constitute
+54:52an explanation of how the one moved was
+54:54chosen out of the many moves that's
+54:58correct
+54:59and we've heard okay it's not a single
+55:03sequence it's a set of sequences sure
+55:05and we kind of deferred discussion in
+55:08this document of how the choosing
+55:10happens that's correct because because
+55:16that discussion has been ongoing for the
+55:18last two years it effectively it's a
+55:20form of it all right so so each each
+55:25block is is proposed and the the
+55:31validators participate in a betting
+55:34cycle on the proposals for the blocks
+55:37then and as as a validator sees new new
+55:42proposals those proposals have to be
+55:44justified
+55:44[Music]
+55:48and and there are conditions on when
+55:54proposals are kind of in good faith for
+55:57versus when proposals are clearly in bad
+55:59faith effectively those proposals which
+56:02have the same justification but propose
+56:04two different the two different moves
+56:09and in this setting it would be two
+56:11different moves same justification
+56:12that's equivocation and the equivocation
+56:15is is always considered in bad faith and
+56:17is always slashed as then the
+56:21requirement is that the validators must
+56:25gossip amongst each other which then
+56:29basically causes a reveal on
+56:31equivocation and once you have a reveal
+56:34and equivocation that's when you you can
+56:36you can be assured that slashing law
+56:39will take place because it's it's in
+56:41everyone's economic interest to slash
+56:43someone who is equivocating or a
+56:45validator that's equivocating so that's
+56:47the rough sketch of how of how the
+56:50choice happens got it thank you sure
+56:56cool any other questions comments
+57:01thoughts Thanks oh well thank you no
+57:08it's it's great to be able to be able to
+57:10chat about this I really well you know
+57:29if we're going to be inspired by anyone
+57:32I'm taking inspiration from Martin
+57:34Luther King is it you know that's that's
+57:36one of the best sources of inspiration
+57:38one could possibly have so cool thank
+57:41you
+57:42well I'm fully intend to put a bounty
+57:47program around this of course the first
+57:51thing I'll do to follow governance is to
+57:53make sure that I make a proposal to the
+57:56board and get feedback from the board
+57:59and assuming that the board is cooled
+58:01that I would like to put together a
+58:03bounty program that goes out on the
+58:06heels of having committed the Casper
+58:09contracts to github to begin the
+58:12development of the the test framework
+58:14and that's where I really really want to
+58:16have the community as much as possible
+58:19involved in the development of that test
+58:21framework which is why I think a bounty
+58:24program is like a first step in doing
+58:27that so that that's kind of all I got
+58:34for this week I'm gonna jump off because
+58:38I've it's already 9 o'clock here but I
+58:42you know please you guys stay on if
+58:44there's more to talk about
+58:53ciao for now
+58:54take a rest
